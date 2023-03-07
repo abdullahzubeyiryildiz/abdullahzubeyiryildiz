@@ -1,6 +1,6 @@
 ### Hi, I'm Abdullah.
 
-## Php Developer | Laravel Developer
+## Php Developer - Laravel Developer
  
  
 Website: <a style="color:red" href="https://www.pratikyazilimci.com/" target="_blank">www.pratikyazilimci.com</a>
