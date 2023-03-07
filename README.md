@@ -23,11 +23,10 @@
 
 <br />
  
-
-<summary>Github Stats</summary>
+### Github Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=abdullahzubeyiryildiz&theme=radical" >
  
-<summary>Most Used Languages</summary>
+### Most Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahzubeyiryildiz&layout=compact" >
  
 
