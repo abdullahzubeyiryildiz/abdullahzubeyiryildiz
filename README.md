@@ -23,15 +23,13 @@
 
 <br />
  
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahzubeyiryildiz&theme=radical" >
-</details>
 
-<details>
-<summary>:bulb:  Most Used Languages</summary>
+<summary>Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=abdullahzubeyiryildiz&theme=radical" >
+ 
+<summary>Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahzubeyiryildiz&layout=compact" >
-</details>
+ 
 
 [website]: https://www.pratikyazilimci.com/
 [youtube]: https://www.youtube.com/c/abdullahzubeyiryildiz 
